@@ -1,2 +1,2 @@
 # Teknik-Pemrograman
-Repo buat naro tugas-tugas Tekprog baik praktik ataupun teori 
+Repo untuk simpen file-file yang berkatitan dengan materi Teknik Pemrograman
